@@ -1,0 +1,6 @@
+```{R}
+# Generate 200 samples from N(0,1)
+# a historgram of the samples
+x <- rnorm(200)
+hist(x)
+```
